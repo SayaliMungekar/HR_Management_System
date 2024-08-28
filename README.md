@@ -5,7 +5,15 @@ Department: After Recruitment all the details of employee were updated according
 Training: All the training schedule is stored in this module
 Salary: This module consists of all the salary details of employee
 
-Prerequisites
-Visual Studio (or any C# IDE)
-MySQL Server
-.NET Framework
+
+1 Software Requirements:
+			1. Visual Studio.
+			2. Microsoft SQL Server Database.
+ 2. Hardware Requirements:
+			1. Disk space:160 MB free as much as you need to store materials.
+			2. Backups: To keep backup of the site.
+			3. Memory : 256 Mb(min).
+			4. PC  with 4GB Ram
+
+
+
